@@ -98,10 +98,6 @@ export default {
 
       ],
       systemMenulist:[
-        {name:"组织架构",icon:"el-icon-office-building",url:"/Organization"},
-        {name:"角色管理",icon:"el-icon-s-check",url:"/Role"},
-        {name:"人员管理",icon:"el-icon-user",url:"/Personnel"},
-        {name:"工厂日历",icon:"el-icon-date",url:"/Calendar"},
         {name:"调度维护",icon:"el-icon-suitcase",url:"/SchedulingRules"},
         {name:"系统日志",icon:"el-icon-notebook-1",url:"/Log"}
       ],
